@@ -13,7 +13,7 @@ WhatsAppening is a location-aware social app that lets people discover each othe
 - Dynamic updates as people move and interact  
 
 <img width="390" height="844" alt="Group 427323670" src="https://github.com/user-attachments/assets/f85de169-54e0-4117-81c8-99628bc3ee5f" />
-<img width="390" height="844" alt="Group 427323669" src="https://github.com/user-attachments/assets/09d814b7-32e4-4183-a8b9-354d06055150" />
+![WhatsApp Image 2025-08-29 at 1 12 16 PM (1)](https://github.com/user-attachments/assets/863692ca-adbe-4ee0-be27-e72b0736e57f)
 
 
 ### 🤝 Connections & Networking
