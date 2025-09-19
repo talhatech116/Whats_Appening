@@ -13,8 +13,8 @@
 - Dynamic updates as people move and interact  
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f85de169-54e0-4117-81c8-99628bc3ee5f" height="420px" />
-  <img src="https://github.com/user-attachments/assets/863692ca-adbe-4ee0-be27-e72b0736e57f" height="420px" />
+  <img src="https://github.com/user-attachments/assets/f85de169-54e0-4117-81c8-99628bc3ee5f" height="250px" />
+  <img src="https://github.com/user-attachments/assets/863692ca-adbe-4ee0-be27-e72b0736e57f" height="250px" />
 </div>
 
 ---
@@ -26,12 +26,8 @@
 - Build meaningful social and professional networks  
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/577f7460-9204-4f02-aa7c-5a06cd05be6c" height="420px" />
-  <img src="https://github.com/user-attachments/assets/f6755d78-c54a-4b81-8162-782043817f32" height="420px" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ff1ac959-efde-42ce-86b8-a5190838853c" height="420px" />
+  <img src="https://github.com/user-attachments/assets/577f7460-9204-4f02-aa7c-5a06cd05be6c" height="250px" />
+  <img src="https://github.com/user-attachments/assets/f6755d78-c54a-4b81-8162-782043817f32" height="250px" />
 </div>
 
 ---
@@ -43,12 +39,8 @@
 - Secure and private messaging environment  
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/790008fb-2146-4750-8d73-6ba742d9001c" height="420px" />
-  <img src="https://github.com/user-attachments/assets/2ece262f-9d54-4a6c-a9b9-625e9c37e1ed" height="420px" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e21b806d-fe0e-4cff-b779-558c76ec71c9" height="420px" />
+  <img src="https://github.com/user-attachments/assets/790008fb-2146-4750-8d73-6ba742d9001c" height="250px" />
+  <img src="https://github.com/user-attachments/assets/2ece262f-9d54-4a6c-a9b9-625e9c37e1ed" height="250px" />
 </div>
 
 ---
@@ -60,7 +52,7 @@
 - Flexible subscription plans for every type of user  
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/72c8de6e-f265-46f9-8c81-c20f633294c5" height="420px" />
+  <img src="https://github.com/user-attachments/assets/72c8de6e-f265-46f9-8c81-c20f633294c5" height="250px" />
 </div>
 
 ---
@@ -77,3 +69,15 @@ We created **WhatsAppening** — a powerful social discovery app that makes meet
 - Messaging, meetups, and subscriptions built into one app  
 - Smart filters and personalized suggestions  
 - Simple, intuitive design for users of all backgrounds  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend (Mobile):** Flutter  
+- **Frontend (Web):** React  
+- **Backend:** Node.js (with scalable APIs & real-time WebSocket support)  
+- **Database & Hosting:** Flexible cloud infrastructure (can integrate with MongoDB, Firebase, or SQL-based DBs)  
+
+---
+
